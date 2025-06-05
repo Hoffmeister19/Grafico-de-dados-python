@@ -7,7 +7,7 @@ Este projeto visa analisar os dados de uma base de clientes para identificar os 
 ## 🗂️ Estrutura do Projeto
 
 `inicial.ipynb` – Notebook Jupyter com o ponto de partida do projeto, antes das otimizações e filtragens para a redução da taxa de cancelamento.
-`[Nome do Arquivo de Dados].csv` – Arquivo com a base de dados dos clientes (presume-se que seja um arquivo CSV, cujo nome exato não foi fornecido no snippet, mas é referenciado no código).
+`cancelamentos_sample.csv` – Arquivo com a base de dados dos clientes (presume-se que seja um arquivo CSV, cujo nome exato não foi fornecido no snippet, mas é referenciado no código).
 
 ---
 
