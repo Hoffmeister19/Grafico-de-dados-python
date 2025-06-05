@@ -34,7 +34,7 @@ Este projeto visa analisar os dados de uma base de clientes para identificar os 
     ```bash
     jupyter notebook
     ```
-5.  **Abra o arquivo `gabarito.ipynb`** e execute as células para reproduzir a análise.
+5.  **Abra o arquivo `inicial.ipynb`** e execute as células para reproduzir a análise.
 
 ---
 
