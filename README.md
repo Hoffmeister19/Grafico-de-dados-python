@@ -27,7 +27,7 @@ Este projeto visa analisar os dados de uma base de clientes para identificar os 
     ```
 3.  **Faça o download dos arquivos:**
     * `inicial.ipynb`
-    * O arquivo CSV com os dados dos clientes (cujo link é mencionado no notebook: `https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5tfc8XsNYFZ?usp=drive_link`). Certifique-se de que o arquivo CSV esteja no mesmo diretório dos notebooks ou que o caminho seja ajustado no código.
+    * O arquivo CSV com os dados dos clientes. Certifique-se de que o arquivo CSV esteja no mesmo diretório dos notebooks ou que o caminho seja ajustado no código.
 4.  **Inicie o Jupyter Notebook:**
     ```bash
     jupyter notebook
