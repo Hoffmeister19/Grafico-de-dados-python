@@ -1,6 +1,6 @@
 # 📊 Análise de Cancelamento de Clientes com Python
 
-Este projeto visa analisar os dados de uma base de clientes para identificar os principais motivos de cancelamento e propor ações eficientes para reduzir a taxa de churn. A análise é realizada utilizando a biblioteca `pandas` para manipulação e exploração dos dados.
+Este projeto visa analisar os dados de uma base de clientes para identificar os principais motivos de cancelamento e propor ações eficientes para reduzir a taxa de cancelamento. A análise é realizada utilizando a biblioteca `pandas` para manipulação e exploração dos dados.
 
 ---
 
