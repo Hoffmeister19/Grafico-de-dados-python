@@ -6,7 +6,6 @@ Este projeto visa analisar os dados de uma base de clientes para identificar os 
 
 ## 🗂️ Estrutura do Projeto
 
-`gabarito.ipynb` – Notebook Jupyter contendo o código principal para a análise de dados, incluindo a leitura, filtragem e visualização dos resultados.
 `inicial.ipynb` – Notebook Jupyter com o ponto de partida do projeto, antes das otimizações e filtragens para a redução da taxa de cancelamento.
 `[Nome do Arquivo de Dados].csv` – Arquivo com a base de dados dos clientes (presume-se que seja um arquivo CSV, cujo nome exato não foi fornecido no snippet, mas é referenciado no código).
 
@@ -27,7 +26,6 @@ Este projeto visa analisar os dados de uma base de clientes para identificar os 
     pip install pandas
     ```
 3.  **Faça o download dos arquivos:**
-    * `gabarito.ipynb`
     * `inicial.ipynb`
     * O arquivo CSV com os dados dos clientes (cujo link é mencionado no notebook: `https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5tfc8XsNYFZ?usp=drive_link`). Certifique-se de que o arquivo CSV esteja no mesmo diretório dos notebooks ou que o caminho seja ajustado no código.
 4.  **Inicie o Jupyter Notebook:**
